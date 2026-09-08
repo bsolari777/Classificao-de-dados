@@ -24,3 +24,5 @@ Os códigos serão organizados em pastas de acordo com os exercícios e conteúd
 
 ## Linguagem utilizada
 
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" width="80">
